@@ -1,5 +1,5 @@
 # QuickSort
-Implementation of a in place quicksort, that also count the number of comparisons made.
+Implementation of a in place quicksort that also count the number of comparisons made.
 
 To change the pivot selection change the pivot_option parameter to:
 
